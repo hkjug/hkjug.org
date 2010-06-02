@@ -1,0 +1,15 @@
+<div id="navigation">
+    <ul id="primary-navigation">
+        <li class="active"><a href="/">Home</a></li>
+        <li><a href="/events">Events</a></li>
+        <li><a href="/attributions">Attributions</a></li>
+        <li><a href="#">Signup</a></li>
+    </ul>
+
+    <%--<ul id="user-navigation">
+        <li><a href="#">Profile</a></li>
+        <li><a href="#">Settings</a></li>
+        <li><a href="#">Logout</a></li>
+    </ul>--%>
+    <div class="clear"></div>
+</div>
