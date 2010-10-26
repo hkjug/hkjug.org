@@ -1,0 +1,9 @@
+Sitemesh configuration
+
+1. pom.xml
+
+2. /WEB-INF/web.xml
+
+3. /WEB-INF/decorators.xml
+
+4. /WEB-INF/sitemesh.xml
