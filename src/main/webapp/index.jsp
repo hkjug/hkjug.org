@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>HKJUG Home</title>
+    <title>Hong Kong Java User Group</title>
     <link rel="stylesheet" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css"
           type="text/css">
 </head>

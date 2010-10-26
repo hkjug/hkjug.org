@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<decorators defaultdir="/decorators">
+    <excludes>
+        <pattern>/themes/*</pattern>
+        <pattern>/api/*</pattern>
+        <pattern>**/json</pattern>
+        <pattern>/robot.txt</pattern>
+    </excludes>
+    <decorator name="main" page="/WEB-INF/sitemesh/main-template.jsp">
+        <pattern>/*</pattern>
+    </decorator>
+    <!--
+    <decorator name="panel" page="panel.jsp"/>
+    <decorator name="printable" page="printable.jsp"/>
+    <decorator name="black" page="black.jsp"/>
+    <decorator name="nopanelsource" page="nopanelsource.jsp"/>
+    <decorator name="badpanelsource" page="badpanelsource.jsp"/>
+
+    <decorator name="test" page="test.jsp">
+        <pattern>/agent.jsp</pattern>
+    </decorator>-->
+</decorators>
